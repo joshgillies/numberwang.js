@@ -2,6 +2,10 @@
 
 That's NumberWang!
 
+[![build status](https://secure.travis-ci.org/joshgillies/numberwang.js.svg)](http://travis-ci.org/joshgillies/numberwang.js)
+
+[![NPM](https://nodei.co/npm/number-wang.png?downloads=true&stars=true)](https://nodei.co/npm/numberwang-js/)
+
 # Example
 ```javascript
 var Numberwang = require('numberwang-js');
