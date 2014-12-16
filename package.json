@@ -1,0 +1,25 @@
+{
+  "name": "numberwang-js",
+  "version": "1.0.0",
+  "description": "That's NumberWang!",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshgillies/numberwang.js.git"
+  },
+  "keywords": [
+    "numberwang"
+  ],
+  "author": "Josh Gillies <npm@joshgilli.es> (http://joshgilli.es/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshgillies/numberwang.js/issues"
+  },
+  "homepage": "https://github.com/joshgillies/numberwang.js",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  }
+}
